@@ -16,8 +16,8 @@ Install Requirements
     nuget install NAudio
     copy NAudio.1.10.0\lib\net35\NAudio.dll
 
-Compile With Mono
-=================
+Compile
+=======
 ::
 
     csc -out:control.exe -win32icon:guitar.ico /r:NAudio.dll *.cs
