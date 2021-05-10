@@ -13,7 +13,7 @@ Install Requirements
 ====================
 ::
 
-    nuget install NAudio
+    nuget install Naudio -Version 1.10.0
     copy NAudio.1.10.0\lib\net35\NAudio.dll
 
 Compile
